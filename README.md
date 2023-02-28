@@ -6,4 +6,4 @@
 * Web (DMZ) (2 sites)
 * DB (2eme DMZ) 
 * Web interne (Trusted Zone)
-* 3 parefeu (1 = DMZ, 2 = DMZ avec DB, 3 = Intranet)
+* 3 parefeux (1 = DMZ, 2 = DMZ avec DB, 3 = Intranet)
