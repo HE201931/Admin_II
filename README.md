@@ -8,3 +8,4 @@
 * Web interne (Trusted Zone)
 * 3 parefeux (1 = DMZ, 2 = DMZ avec DB, 3 = Intranet)
 * named -check conf
+* ERP : https://fosspost.org/open-source-erp/
